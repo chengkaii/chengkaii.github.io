@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Initial page](README.md)
+* [Kotlin](README.md)
 
 ## 第一章
 
